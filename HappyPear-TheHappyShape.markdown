@@ -25,6 +25,32 @@ by Happy Pear
   * no fibre; little to no nutrition
   * the ultimate refined food
     * we extract it from the whole food, discarding the fibre and nearly all the vitamins and minerals leaving us with nothing but **FAT**
+
+* **FATS**
+  * saturated
+  * unsaturated
+    * monounsaturated
+    * polyunsaturated (the body can't make them)
+      * Omega 3 & Omega 6 (chia, flaxseeds, walnuts) 
+      
+* **PROTEIN**
+  * made up of building blocks called amino-acids
+  * 0.8g of protein/Kg of body weight
+  
+* **IRON**
+  * essential to transport oxygen around our body and to our muscles (via red blood cells)
+  * two types of iron:
+    1. haem iron (found in animal product)
+    1. non-haem iron (found in plants)
+    
+  * **Haem Iron**:
+    * readily absorbed (even if not required)
+    * once absorbed, our bodies have no efficient way of excreting it
+      * as iron is pro-oxidant, too much can cause DNA damage and has been linked to some diseases including Alzheimer's & Parkinson's, cardiovascular diseases, arthritis and some forms of cancer
+      
+  * to boost iron, you can add sources of vit. C to your meals to support iron absorbtion (peppers, broccoli, grapefruit, oranges)
+  * avoid tea and coffee at meal times as the tannins in these drinks can inhibit iron absorbtion and increase the intake of beans and pulses
+  
   
 ### **Whole Food Plant-Based Diet**
 - centres on whole, unrefined and unprocessed foods
@@ -51,3 +77,4 @@ by Happy Pear
  * **FAT**: over 17.5g/100g <=> HIGH fat
  * **SUGAR**: aim for less than 5g/100g
  * **SALT**: 6g/day as upper limit
+
