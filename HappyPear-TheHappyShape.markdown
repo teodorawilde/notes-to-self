@@ -51,6 +51,15 @@ by Happy Pear
   * to boost iron, you can add sources of vit. C to your meals to support iron absorbtion (peppers, broccoli, grapefruit, oranges)
   * avoid tea and coffee at meal times as the tannins in these drinks can inhibit iron absorbtion and increase the intake of beans and pulses
   
+* **CALCIUM**
+  * important mineral for human survival, needed to maintain bones and teeth strong and healthy
+  * small amounts are also required for nerve function, to relax our muscles and for blood clotting
+  * recommended Ca intake is 700mg/day
+  * most plant milks are fortified to match the calcium content of cow's milk
+  * present in dark leafy greens (kale, watercress, mustard greens and pak choy
+  * also found in broccoli, tofu, tahini, beans and almonds
+  * to maintain bone density it is recommended to avoid smoking and drinking too much caffeine or alcohol
+  
   
 ### **Whole Food Plant-Based Diet**
 - centres on whole, unrefined and unprocessed foods
@@ -78,3 +87,5 @@ by Happy Pear
  * **SUGAR**: aim for less than 5g/100g
  * **SALT**: 6g/day as upper limit
 
+#### Misc.
+- refined flour -> turns into sugar as soon as we eat it
