@@ -24,6 +24,8 @@ Most of us are chest breathers, we don't do it using our full functions resultin
 It is not as important whether you stick to the count yet whether you expand completely; this way we get the deepest breath.
 The breathing is done through the nose because it is a great organ to actually filter out the air. It takes out big particles, as well the mucus membrane takes out small particles while warming and humidifying the oxigen that is going into our lungs. Hence we get a better oxygen exchange in our lungs.
 
+---
+
 ### Ujjayi (aka Victorious/Ocean Breath)
 
 The breath that is most commonly used in the Asana practices.
@@ -41,3 +43,36 @@ Ujjayi gives us the ability to regulate how much oxygen we are pulling into the 
 - constriction applies on both inhale and exhale; while keeping the mouth closed
 
 The whole point is to use the breath to extend the inhale so we could breathe slower, loger, regulating how much is coming in, same being applied for the exhale. Its purpose is to also cultivate awarness and minduflness. The more that we pay attention to the softness of the breath the more mindfulness we bring.
+
+---
+
+### Kapalabhati (aka Skull Shining Breath)
+
+Great breath to clense the body, increase the metabolic rate by engaging the muscles of exhalation as well as bringing a lot of energy and awareness to the mind.
+
+**Technique:**
+- done through an active exhale; drawing into the belly, really working through the exhalation muscles to push the air out
+- the inhale is going to be passive; by exhaling more, it drops the atmospheric pressure on the inside of the body and the inhale comes in without having to do anything
+- similary to trying to make a quiet cough
+- inhale fully, exhale completely, inhale half-way, exhale only using the belly (15-20 breaths)
+- re-do the cycle of breathing a couple of times
+
+---
+
+### Nadi Shodhana (aka Alternate Nostril Breathing)
+
+Helps to balance the left and right side of the brain, bringing equanimity as well as balancing energies.
+
+**Technique:**
+- done with the right hand (index and middle finger in or out resting on the forehead), the left one being in gyan mudra (index and thumb together)
+- press on the upper part of the nose so we are not pushing down into the mucus membrane, just to block-off one nostril
+- we always exhange on the exhale
+- inhale through one nostril, exhale out through the other, continuing to alternate in the same manner
+
+---
+
+### Kumbhaka
+
+---
+
+### Viloma
